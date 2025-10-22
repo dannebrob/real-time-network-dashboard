@@ -212,8 +212,7 @@ def main():
     # Auto refresh commented out; enable if desired
     # time.sleep(2)
     # st.rerun()
-
-logger.info("Starting Real-time Network Traffic Analysis Dashboard")
+    
 
 if __name__ == '__main__':
     logger.info("Starting Real-time Network Traffic Analysis Dashboard")
